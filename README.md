@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JasperZhi, you can call me 志(Zhi), that is my first name :)
-- 👀 I’m interested in NLP, corpus, history & philosophy
+- 👀 I’m interested in NLP, linguistics, history & philosophy
 - 🌱 I’m currently learning computational linguistics / corpus construction
 - 💞️ I’m looking to collaborate on corpus & LLMs
 - 📫 How to reach me x2005ie@gmail.com / 123030099@link.cuhk.edu.cn
