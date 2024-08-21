@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on corpus & LLMs
 - 📫 How to reach me x2005ie@gmail.com / 123030099@link.cuhk.edu.cn
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I'm younger than my Dad
+- ⚡ Fun fact
 
 <!---
 JasperZhi/JasperZhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
